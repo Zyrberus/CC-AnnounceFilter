@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: CC-AnnounceFilter
+## Notes: Filter out the BG/Arena system messages from chat
+## Author: zyr
+## Version: 1.0.0
+CC-AnnounceFilter.lua
